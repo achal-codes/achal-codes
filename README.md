@@ -8,3 +8,4 @@ I am Achal Jagadeesh, Software Engineer
 - 💬 Ask me about project development, planning, development
 - 📫 How to reach me: Mail me - achaljagadeeshsc@gmail.com/achaljsc@gmail.com
 
+Checkout my blogs here - https://medium.com/@achalj.git
